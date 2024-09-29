@@ -1,4 +1,7 @@
-## Hi there 👋
+## Data Science & Social Sciences
+
+🎓 Student at Ruhr-Universität Bochum
+🔍 Combining data science with social sciences research.
 
 <!--
 **hallofabian/hallofabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
